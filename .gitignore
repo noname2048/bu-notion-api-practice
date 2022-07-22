@@ -1,0 +1,11 @@
+# env
+.env*
+
+# vscode
+.vscode
+
+# pyenv
+.python-version
+
+# python
+**/__pycache__
